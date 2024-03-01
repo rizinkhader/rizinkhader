@@ -1,3 +1,3 @@
 Portfolio-Website
 
-<img src="rizin.png">
+<img src="assets/rizin.png">
